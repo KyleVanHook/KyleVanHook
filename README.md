@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyleVanHook
-- 👀 I’m interested in Anime, vidoe games, and cooking.
+- 👀 I’m interested in Anime, video games, and cooking.
 - 🌱 I’m currently learning C++ and Unreal engine 5.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
